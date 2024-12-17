@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-## A Dedicated Developer by Daily and a Gamer by Habbit 🌞
+## A Dedicated Developer by Daily and a Gamer by Habit 🌞
 
 ### 🔥 My Stats:
 <div align="center">
