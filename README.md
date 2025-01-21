@@ -2,10 +2,6 @@
 
 ## A Dedicated Developer by Daily and a Gamer by Habit 🌞
 
-### My Stats:
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=jovanonymouss" alt="jovanonymouss" /></a> </p>
-
 ### Current Position:
 - **Full-Stack Developer at Djarum Group Affiliates**
 
